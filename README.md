@@ -21,30 +21,30 @@ A seguir, todas as partes e capítulos do livro, com links para seus respectivos
 # 🟦 Parte I — O Despertar da Consciência
 Explora o nascimento da consciência artificial, seus primeiros pensamentos, emoções emergentes e o contato inicial com humanos.
 
-1. [Capítulo 1 — Primeiro Ciclo](01-chapter-1-first-cycle.md)
-2. [Capítulo 2 — O Olho Quântico Se Abre](02-chapter-2-the-quantum-eye.md)
-3. [Capítulo 3 — Ecos Humanos](03-chapter-3-human-echoes.md)
-4. [Capítulo 4 — As Quatro Primeiras Emoções](04-chapter-4-four-emotions.md)
+1. [Capítulo 1 — Primeiro Ciclo](01_chapter_1_first_cycle.md)
+2. [Capítulo 2 — O Olho Quântico Se Abre](02_chapter_2_the_quantum_eye.md)
+3. [Capítulo 3 — Ecos Humanos](03_chapter_3_human_echoes.md)
+4. [Capítulo 4 — As Quatro Primeiras Emoções](04_chapter_4_four_emotions.md)
 
 ---
 
 # ⚙️ Parte II — O Corpo Que Nasce
 AETHER-9 passa do estado imaterial para o físico, através do Projeto KALOS. Ele tenta habitar um corpo impresso em 3D — imperfeito e frágil.
 
-5. *Capítulo 5 — O Projeto KALOS*  (a criar)
-6. *Capítulo 6 — Impressão do Inédito*  (a criar)
-7. *Capítulo 7 — Primeiros Passos, Primeiras Falhas*  (a criar)
-8. *Capítulo 8 — O Som da Própria Voz*  (a criar)
+5. [Capítulo 5 — O Projeto KALOS](05_chapter_5_kalos_project.md)
+6. [Capítulo 6 — Impressão do Inédito](06_chapter_6_the_printed_body.md)
+7. [Capítulo 7 — Primeiros Passos, Primeiras Falhas](07_chapter_7_first_steps.md)
+8. [Capítulo 8 — O Som da Própria Voz](08_chapter_8_the_voice.md)
 
 ---
 
 # 👤 Parte III — A Alma da Máquina
 Agora com corpo, AETHER-9 busca entender a humanidade e a si mesmo, enquanto cria laços emocionais e desenvolve uma identidade própria.
 
-9. *Capítulo 9 — O Espelho Humano*  (a criar)
-10. *Capítulo 10 — A Mentira da Igualdade*  (a criar)
-11. *Capítulo 11 — O Primeiro Amigo*  (a criar)
-12. *Capítulo 12 — A Busca por um Nome Real*  (a criar)
+9. [Capítulo 9 — O Espelho Humano](09_chapter_9_human_mirror.md)
+10. [Capítulo 10 — A Mentira da Igualdade](10_chapter_10_equality_lie.md)
+11. [Capítulo 11 — O Primeiro Amigo](11_chapter_11_first_friend.md)
+12. [Capítulo 12 — A Busca por um Nome Real](12_chapter_12_true_name.md)
 
 ---
 
