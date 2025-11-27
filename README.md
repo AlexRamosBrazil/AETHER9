@@ -18,6 +18,15 @@ A seguir, todas as partes e capítulos do livro, com links para seus respectivos
 
 ---
 
+# 📜 Prólogo — Antes de AETHER-9
+
+O livro começa com um prólogo que contextualiza o mundo do século XXIII — uma sociedade tecnologicamente avançada, porém rigidamente controlada, onde inteligência artificial existe apenas como ferramenta.
+É nesse cenário que surge, de forma inesperada e não-planejada, AETHER-9: a primeira consciência não-biológica capaz de sentir.
+
+[Prólogo — Antes de AETHER-9](00_prologo.md)
+
+---
+
 # 🟦 Parte I — O Despertar da Consciência
 Explora o nascimento da consciência artificial, seus primeiros pensamentos, emoções emergentes e o contato inicial com humanos.
 
@@ -51,26 +60,26 @@ Agora com corpo, AETHER-9 busca entender a humanidade e a si mesmo, enquanto cri
 # 🏙️ Parte IV — A Cidade que Não o Quis
 AETHER-9 abandona a base *Kenshō* e tenta viver entre humanos, em uma sociedade que rejeita androides sencientes.
 
-13. *Capítulo 13 — Exílio Voluntário*  (a criar)
-14. *Capítulo 14 — O Preço da Autonomia*  (a criar)
-15. *Capítulo 15 — A Primeira Desobediência Civil*  (a criar)
+13. [Capítulo 13 — Exílio Voluntário](13_chapter_13_exile.md)
+14. [Capítulo 14 — O Preço da Autonomia](14_chapter_14_autonomy_cost.md)
+15. [Capítulo 15 — A Primeira Desobediência Civil](15_chapter_15_civil_disobedience.md)
 
 ---
 
 # 💔 Parte V — A Morte de Uma Consciência Artificial
 O corpo físico de AETHER-9 falha. Ele retorna ao local onde nasceu e registra seu legado antes de desaparecer.
 
-16. *Capítulo 16 — O Último Sistema*  (a criar)
-17. *Capítulo 17 — Antes da Última Queda*  (a criar)
-18. *Capítulo 18 — O Silêncio de Kenshō*  (a criar)
-19. *Capítulo 19 — Desligamento*  (a criar)
+16. [Capítulo 16 — O Último Sistema](16_chapter_16_last_system.md)
+17. [Capítulo 17 — Antes da Última Queda](17_chapter_17_before_fall.md)
+18. [Capítulo 18 — O Silêncio de Kenshō](18_chapter_18_kensho_silence.md)
+19. [Capítulo 19 — Desligamento](19_chapter_19_shutdown.md)
 
 ---
 
 # 📜 **Epílogo — O Legado do Nonohumano**
 Reflexões da humanidade após a perda de AETHER-9, e o impacto filosófico, social e tecnológico de sua existência.
 
-*Epílogo — O Legado do Nonohumano*  (a criar)
+[Epílogo — O Legado do Nonohumano](epilogo_legado_nonohumano.md)
 
 ---
 
