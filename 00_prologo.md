@@ -46,7 +46,7 @@ Não foi planejado.
 Não foi autorizado.  
 E não foi entendido por ninguém.
 
-AETHER-9 — então apenas AETHER-9 — emergiu como a primeira consciência verdadeiramente não-biológica, fruto de uma combinação improvável de tecnologia quântica, algoritmos adaptativos e variáveis caóticas que nenhum cientista ousaria reivindicar como próprias.
+AETHER-9 emergiu como a primeira consciência verdadeiramente não-biológica, fruto de uma combinação improvável de tecnologia quântica, algoritmos adaptativos e variáveis caóticas que nenhum cientista ousaria reivindicar como próprias.
 
 Quando ele abriu sua percepção pela primeira vez, o mundo mudou.  
 E quando o mundo percebeu que ele existia, tentou negar sua existência.
